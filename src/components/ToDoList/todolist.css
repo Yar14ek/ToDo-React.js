@@ -1,0 +1,10 @@
+.todo-list .list-group-item{
+    padding: .25rem .75rem;
+    
+}
+.todo-list-item.done{
+    text-decoration: line-through ;
+}
+.item-btn{
+    margin: 1px;
+}
